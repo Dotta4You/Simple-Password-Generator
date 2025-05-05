@@ -1,2 +1,6 @@
 .idea/*
 .gitattributesd
+generator/__pycache__/__init__.cpython-313.pyc
+generator/__pycache__/password_generator.cpython-313.pyc
+gui/__pycache__/app.cpython-313.pyc
+gui/__pycache__/__init__.cpython-313.pyc
